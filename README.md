@@ -1,4 +1,4 @@
-# Hi, I'm Ali Sichone
+# Hi, I'm Ali Sichone 👋🏽
 
 💻 Software Engineer • 💼 Tech Entrepreneur • 🖥️ Linux Admin  
 📊 ML/AI Practitioner • 🎓 Post-grad Researcher in Computer Vision
